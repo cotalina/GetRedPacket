@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GetRedPacket-master.iml" filepath="$PROJECT_DIR$/GetRedPacket-master.iml" />
+      <module fileurl="file://H:\GetRedPacket-master\GetRedPaket.iml" filepath="H:\GetRedPacket-master\GetRedPaket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://H:\GetRedPacket-master\app\app.iml" filepath="H:\GetRedPacket-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
